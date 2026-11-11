@@ -1,8 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Gustavo · Cybersecurity">
-<defs><linearGradient id="bg" x2="1" y2="0"><stop stop-color="#071525"/><stop offset="1" stop-color="#12345a"/></linearGradient></defs>
-<rect width="1200" height="240" rx="14" fill="url(#bg)"/>
-<rect x="54" y="59" width="3" height="122" rx="1.5" fill="#77ace0"/>
-<text x="80" y="117" fill="#edf5ff" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700">Gustavo<tspan fill="#77ace0">_</tspan></text>
-<text x="83" y="160" fill="#9dbbda" font-family="Segoe UI,Arial,sans-serif" font-size="21" letter-spacing="4">CYBERSECURITY</text>
-<text x="1012" y="136" fill="#567a9f" font-family="Consolas,monospace" font-size="42">&lt;/&gt;</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<defs>
+<linearGradient id="bg"><stop stop-color="#081526"/><stop offset="1" stop-color="#10365b"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#428eff"/><stop offset="1" stop-color="#36dec5"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#168bb0" stop-opacity=".3"/><stop offset="1" stop-color="#168bb0" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#7ab6e9" stroke-opacity=".05"/></pattern>
+</defs>
+<rect width="1200" height="330" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="330" rx="18" fill="url(#grid)"/>
+<ellipse cx="1010" cy="160" rx="260" ry="250" fill="url(#glow)"/>
+<path d="M0 326H1200" stroke="url(#line)" stroke-width="4"/>
+<rect x="55" y="45" width="138" height="29" rx="14" fill="#102e46" stroke="#28536e"/>
+<circle cx="73" cy="59" r="4" fill="#36dec5"/>
+<text x="85" y="64" fill="#b7d5ed" font-family="monospace" font-size="13">GUSTAVOTM2</text>
+<text x="52" y="158" fill="#f1f7ff" font-family="Segoe UI,Arial,sans-serif" font-size="76" font-weight="700">Gustavo<tspan fill="#36dec5">_</tspan></text>
+<text x="57" y="203" fill="#79b9ff" font-family="Segoe UI,Arial,sans-serif" font-size="23" letter-spacing="5">CYBERSECURITY</text>
+<text x="57" y="263" fill="#a8bdd3" font-family="Segoe UI,Arial,sans-serif" font-size="18">Python · Web development · Databases</text>
+<g fill="none" stroke="#3e7199"><circle cx="977" cy="165" r="111"/><circle cx="977" cy="165" r="91" stroke-dasharray="4 12"/>
+<path d="M830 165H860M1094 165H1130M977 25V48M977 282V306"/>
+<path d="M977 100 1030 122V170Q1030 209 977 237Q924 209 924 170V122Z" fill="#0b2239" stroke="#36dec5" stroke-width="2"/>
+<path d="M965 151 949 166 965 181M989 151 1005 166 989 181M982 147 972 185" stroke="#91c9ff" stroke-width="3" stroke-linecap="round"/>
+</g><circle cx="1088" cy="165" r="5" fill="#36dec5"/><circle cx="977" cy="54" r="4" fill="#599dff"/>
 </svg>
