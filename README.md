@@ -22,7 +22,7 @@ Meu foco é **cibersegurança**. Tenho conhecimentos em **Python**, desenvolvime
 
 <table>
   <tr>
-    <td><strong>Código &amp; web</strong><br /><br /><img src="https://skillicons.dev/icons?i=python,html,css,java,js&amp;theme=dark" alt="Python, HTML, CSS, Java, JavaScript" /><br /><br /><sub>Python · HTML · CSS · Java · JavaScript</sub></td>
+    <td><strong>Código &amp; web</strong><br /><br /><img src="https://skillicons.dev/icons?i=python,html,css,java,js,cs&amp;theme=dark" alt="Python, HTML, CSS, Java, JavaScript e C#" /><br /><br /><sub>Python · HTML · CSS · Java · JavaScript · C#</sub></td>
     <td><strong>Dados</strong><br /><br /><img src="https://skillicons.dev/icons?i=mysql,mongodb&amp;theme=dark" alt="MySQL e MongoDB" /><br /><br /><sub>MySQL · MongoDB</sub></td>
   </tr>
 </table>
