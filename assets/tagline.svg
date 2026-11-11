@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="54" viewBox="0 0 760 54" role="img" aria-label="Understand the system. Question the limits.">
+  <title>Understand the system. Question the limits.</title>
+  <style>
+    .reveal { animation: typing 10s steps(42, end) infinite; }
+    .cursor { animation: typing 10s steps(42, end) infinite; }
+    .blink { animation: blink 1s step-end infinite; }
+    @keyframes typing {
+      0%, 5% { transform: translateX(-630px); }
+      60%, 92% { transform: translateX(0); }
+      100% { transform: translateX(-630px); }
+    }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .reveal, .cursor { animation: none; }
+      .blink { animation: none; opacity: 0; }
+    }
+  </style>
+  <defs>
+    <clipPath id="typing-clip"><rect class="reveal" x="0" y="0" width="630" height="54" /></clipPath>
+  </defs>
+  <text x="0" y="35" fill="#79ace0" font-family="monospace" font-size="23" textLength="630" lengthAdjust="spacingAndGlyphs" clip-path="url(#typing-clip)">Understand the system. Question the limits.</text>
+  <g class="cursor"><path class="blink" d="M633 13V39" stroke="#79ace0" stroke-width="2" /></g>
+</svg>
