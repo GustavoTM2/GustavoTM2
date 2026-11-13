@@ -36,3 +36,11 @@ Meu foco é **cibersegurança**. Tenho conhecimentos em **Python**, desenvolvime
 </a>
 
 <p align="right"><a href="https://github.com/GustavoTM2/TCC_Acrossing_the_World/tree/main/Docs">Documentação ↗</a></p>
+
+<br />
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/gustavo-teixeira-marques-a2705a429/" aria-label="LinkedIn de Gustavo Teixeira Marques">
+  <img src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" alt="LinkedIn" width="40" height="40" />
+</a>
